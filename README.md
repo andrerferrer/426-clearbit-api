@@ -8,4 +8,5 @@ git clone git@github.com:andrerferrer/426-clearbit-api.git
 cd 426-clearbit-api
 yarn install
 stt # Open this folder in Sublime Text
+webpack-dev-server # run the server on localhost:8080
 ```
